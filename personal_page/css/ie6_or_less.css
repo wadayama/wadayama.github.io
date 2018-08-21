@@ -1,0 +1,16 @@
+/*****************************************************/
+/*   制作者:     Liberty                             */
+/*   URL:        http://cool-liberty.com/            */
+/*   バージョン: 1.0                                 */
+/*   制作日:     2006.05.13                          */
+/*****************************************************/
+
+#header { width: 100%; }
+
+#nav-secondary a { width: 143px; }
+
+#resultslist-wrap li dl { display: inline; }
+
+
+/* PEEK-A-BOOバグ対応部分 */
+ol.code, .featurebox, #content ul, #sidebar ul { position: relative; }

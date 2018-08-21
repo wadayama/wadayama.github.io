@@ -1,0 +1,158 @@
+html {
+    overflow-y: scroll;
+}
+
+body {
+    background: #FFFFFF;
+    padding-bottom: 0;
+}
+
+#wrap {
+    padding-bottom: 20px;
+    background: #FFFFFF url("img/body_bg.gif") repeat-x 0 100%;
+}
+
+#header #sub-site-name {
+    font-size: 80%;
+    margin: 0 0 0 40px;
+    padding-bottom: 3px;
+    color: #CCCCCC;
+}
+
+#header a {
+    color: #CCCCCC;
+    text-decoration: none;
+}
+
+#utility {
+    width: 200px;
+}
+
+#type-b #content {
+    margin: 0 23px 0 270px;
+}
+
+#type-b #content-wrap {
+    background: transparent url("img/content_wrap_bg.gif") repeat-y 65px 0;
+}
+
+#nav-secondary a {
+    width: 177px;
+}
+
+#nav-secondary a:hover { color: #C00; background: #FEE url("img/sprites.gif") no-repeat 10px -695px; }
+
+#utility .notice {
+    margin-top: 20px;
+}
+
+.notice ul.schedule {
+    margin: 0;
+    list-style-type: none;
+}
+
+.notice ul.schedule li {
+    background: transparent url("img/sprites.gif") no-repeat 0 0;
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+.notice ul.schedule li .schedule-time {
+    margin-left: 1em;
+}
+
+.notice p.place {
+    margin: 0;
+    font-weight: bold;
+}
+
+#content #top-logo {
+    margin-bottom: 20px;
+}
+
+#content #top-logo img {
+    width: 100%;
+}
+
+.section-h2 {
+    padding-left: 20px;
+    margin-bottom: 50px;
+}
+
+.section-h3 {
+    padding-left: 0;
+}
+
+/**
+ * CSS Buttons Generator for your pleasure!
+ * http://www.dextronet.com/css-buttons-generator
+ *
+ * (c) Ondrej Zabojnik <zabojnik@dextronet.com>, released under the MIT license
+ *
+ * Usage:
+ *   <a href="" class="shiny-button"><strong>研究を進める上でのアドバイス</strong></a>
+ *
+ */
+
+a.shiny-button {
+  display: inline-block;
+  text-align: center;
+  border-width: 1px;
+  border-style: solid;
+  text-transform: uppercase;
+  text-decoration: none;
+  line-height: 1.1;
+  font-weight: normal;
+  font-family: sans-serif;
+  color: #FFFFFF;
+  font-size: 110%;
+  background-color: #006BCF;
+  background-image: -webkit-linear-gradient(top, #006ed4 0%, #197fdf 48%, #006BCF 49%, #006BCF 82%, #0079eb 100%);
+  background-image: -moz-linear-gradient(top, #006ed4 0%, #197fdf 48%, #006BCF 49%, #006BCF 82%, #0079eb 100%);
+  background-image: -o-linear-gradient(top, #006ed4 0%, #197fdf 48%, #006BCF 49%, #006BCF 82%, #0079eb 100%);
+  background-image: linear-gradient(top, #006ed4 0%, #197fdf 48%, #006BCF 49%, #006BCF 82%, #0079eb 100%);
+  border-color: hsl(209, 40%, 41%);
+  -webkit-box-shadow: inset 0 0 1px 1px #1c92ff, 0 0 1px 3px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: inset 0 0 1px 1px #1c92ff, 0 0 1px 3px rgba(0, 0, 0, 0.15);
+  box-shadow: inset 0 0 1px 1px #1c92ff, 0 0 1px 3px rgba(0, 0, 0, 0.15);
+  -webkit-text-shadow: 1px 1px 1px #003669;
+  -moz-text-shadow: 1px 1px 1px #003669;
+  -o-text-shadow: 1px 1px 1px #003669;
+  text-shadow: 1px 1px 1px #003669;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  border-radius: 12px;
+  padding: 8.399999999999999px 21px 8.399999999999999px 21px;
+}
+
+a.shiny-button strong {
+  letter-spacing: 1px;
+  font-size: 17px;
+}
+
+a.shiny-button:hover {
+  color: #FFFFFF;
+  background-color: #0073de;
+  background-image: -webkit-linear-gradient(top, #0076e3 0%, #2087e6 48%, #0073de 49%, #0073de 82%, #0082fa 100%);
+  background-image: -moz-linear-gradient(top, #0076e3 0%, #2087e6 48%, #0073de 49%, #0073de 82%, #0082fa 100%);
+  background-image: -o-linear-gradient(top, #0076e3 0%, #2087e6 48%, #0073de 49%, #0073de 82%, #0082fa 100%);
+  background-image: linear-gradient(top, #0076e3 0%, #2087e6 48%, #0073de 49%, #0073de 82%, #0082fa 100%);
+  border-color: hsl(209, 41%, 44%);
+  -webkit-box-shadow: inset 0 0 1px 1px #2697ff, 0 0 1px 3px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: inset 0 0 1px 1px #2697ff, 0 0 1px 3px rgba(0, 0, 0, 0.15);
+  box-shadow: inset 0 0 1px 1px #2697ff, 0 0 1px 3px rgba(0, 0, 0, 0.15);
+  -webkit-text-shadow: 1px 1px 1px #003e78;
+  -moz-text-shadow: 1px 1px 1px #003e78;
+  -o-text-shadow: 1px 1px 1px #003e78;
+  text-shadow: 1px 1px 1px #003e78;
+}
+
+a.shiny-button:active {
+  color: #FFFFFF;
+  background-color: #0063c0;
+  background-image: -webkit-linear-gradient(top, #005eb6 0%, #006BCF 100%);
+  background-image: -moz-linear-gradient(top, #005eb6 0%, #006BCF 100%);
+  background-image: -o-linear-gradient(top, #005eb6 0%, #006BCF 100%);
+  background-image: linear-gradient(top, #005eb6 0%, #006BCF 100%);
+  padding: 9.399999999999999px 21px 7.399999999999999px 21px;
+}
