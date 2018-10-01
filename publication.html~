@@ -70,9 +70,6 @@ Communications and Computer Sciences, Vol. E100.A, No. 3, pp. 832-838  (2017) <B
 IEICE Transactions on Fundamentals of Electronics, 
 Communications and Computer Sciences, Vol. E100.A,No. 2, pp. 663-669 (2017) <BR><BR> 
 
-<LI>Tadashi Wadayama,  ``Non-Adaptive Group Testing based on Sparse Pooling Graphs,'' <I>IEEE Trans. Inform. Theory</I>, 
-VOL. 63, NO. 3, pp.1525-1534 (2017) <br><BR>
-
 
 <LI> Hiroki Mori, Tadashi Wadayama, ``Performance Analysis based on Density Evolution on Fault Erasure Belief Propagation Decoder,''
 IEICE Transactions on Fundamentals of Electronics, 
@@ -285,7 +282,36 @@ vol.E78-A, no.8, pp.1034-1041, August (1995).<P>
 
 </OL>
 <H4><A NAME="conf">International Conference</A></H4>
+
 <OL>
+
+<LI>Tadashi Wadayama and Sathosh Takabe,
+``Quantizer Optimization based on Neural Quantizer for Sum-Product Decoder,''
+2018 IEEE Globecom, to appear, 2018. <BR><BR>
+
+<LI> Satoshi Takabe and Tadashi Wadayama
+``Connectivity of Ad Hoc Wireless Networks with Node Faults,''
+2018 IEEE Globecom, to appear, 2018. <BR><BR>
+
+<LI> Masahito Hayashi, Angeles Vazquez-Castro and Tadashi Wadayama, 
+``Secure Computation-and-Forward Communication with Linear Codes, ''
+2018 IEEE Information Theory Workshop (ITW2018), to appear, 2018. <BR><BR>
+
+<LI> Takafumi Nakano and Tadashi Wadayama, 
+``Analysis on Probabilistic Construction of Connected Dominating Sets over Regular Graph Ensembles'',
+ISITA 2018, to appear, 2018. <BR><BR>
+
+<LI> Satoshi Takabe and Tadashi Wadayama,
+``k-connectivity of Random Graphs and Random Geometric Graphs in Node Fault Model,''
+ISITA 2018, to appear, 2018. <BR><BR>
+
+<LI> Sathoshi Takabe, Y. Ishimatsu, Tadashi Wadayama, and Masahito Hayashi,
+“Asymptotic Analysis on Spatial Coupling Coding for Two-Way Relay Channels,” 
+2018 IEEE International Symposium on Information Theory (ISIT2018), Vail , CO, 2018.<BR><BR>
+
+<LI>Daisuke Ito, Satosh Takabe, and Tadashi Wadayama, “Trainable ISTA for Sparse Signal Recovery,” IEEE International Conference on Communications (ICC2018) workshop, Kansas City, MO, 2018.<BR><BR>
+
+
 <LI>Takayuki Nozaki, Takafumi Nakano, and Tadashi Wadayama
 ``Analysis of Breakdown Probability of Wireless Sensor Networks with Unreliable Relay Nodes,''
 IEEE International Symposium on Information Theory, (2017).<BR><BR>
