@@ -1,0 +1,11 @@
+theme = "paperback"
+
+
+title = "Taadshi Wadayama"
+HomepagePosts = 3
+pygmentsUseClasses = true
+
+pygmentsCodefences = true
+
+[params]
+AuthorName = "Tadashi Wadayama"
