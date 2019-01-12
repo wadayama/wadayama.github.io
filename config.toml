@@ -1,5 +1,5 @@
 theme = "paperback"
-BaseURL = "http://wadayama.github.io/public/"
+BaseURL = "http://wadayama.github.io/"
 
 title = "Taadshi Wadayama"
 HomepagePosts = 3
