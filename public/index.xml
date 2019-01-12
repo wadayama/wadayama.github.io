@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taadshi Wadayama</title>
-    <link>http://wadayama.github.io/</link>
+    <link>/</link>
     <description>Recent content on Taadshi Wadayama</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 10 Jan 2019 22:09:13 +0900</lastBuildDate>
     
-	<atom:link href="http://wadayama.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Second post</title>
-      <link>http://wadayama.github.io/post/fisecond/</link>
+      <link>/post/fisecond/</link>
       <pubDate>Thu, 10 Jan 2019 22:09:13 +0900</pubDate>
       
-      <guid>http://wadayama.github.io/post/fisecond/</guid>
+      <guid>/post/fisecond/</guid>
       <description>hugo new posts/hogehoge.mdコマンドで記事の作成ができます。 作業ディレクトリ直下でコマンドを打つ必要があるので、今の位置をlsコマンドで確認してからにしましょう。 firstpost.mdは記事のタイトルなので$x^2 + \sin(x) = y^2$適宜名前を変えてください。 $$ x^2 + \sin(x) = y^2 $$
 コードハイライトのテスト
 # 学習開始 for i in range(1000): batch_xs, batch_ys = mnist.train.next_batch(100) sess.run(train_step, feed_dict={x: batch_xs, y_: batch_ys}) # print sess.run(accuracy, feed_dict={x: batch_xs, y_: batch_ys}) print sess.run(accuracy, feed_dict={x: mnist.test.images, y_: mnist.test.labels})  Screenshot   $$ \sum_{k=0}^{\infty} \frac{(2k)!}{2^{2k}(k!)^2} \frac{1}{2k+1} = \prod_{k=0}^{\infty} \frac{4k^2}{4k^2 - 1} $$</description>
@@ -23,10 +23,10 @@
     
     <item>
       <title>First post</title>
-      <link>http://wadayama.github.io/post/hogehoge/</link>
+      <link>/post/hogehoge/</link>
       <pubDate>Thu, 10 Jan 2019 20:45:11 +0900</pubDate>
       
-      <guid>http://wadayama.github.io/post/hogehoge/</guid>
+      <guid>/post/hogehoge/</guid>
       <description>Tadashi Wadayama was born in Kyoto, Japan, on May 9,1968. He received the B.E., the M.E., and the D.E. degrees from Kyoto Institute of Technology in 1991, 1993 and 1997, respectively. On 1995, he started to work with Faculty of Computer Science and System Engineering, Okayama Prefectural University as a research associate. From April 1999 to March 2000, he stayed in Institute of Experimental Mathematics, Essen University (Germany) as a visiting researcher.</description>
     </item>
     
