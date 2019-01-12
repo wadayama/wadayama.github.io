@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wadayama.github.io/post/fisecond/</loc>
+    <loc>https://wadayama.github.io/public/post/fisecond/</loc>
     <lastmod>2019-01-10T22:09:13+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wadayama.github.io/post/hogehoge/</loc>
+    <loc>https://wadayama.github.io/public/post/hogehoge/</loc>
     <lastmod>2019-01-10T20:45:11+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wadayama.github.io/categories/</loc>
+    <loc>https://wadayama.github.io/public/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://wadayama.github.io/post/</loc>
+    <loc>https://wadayama.github.io/public/post/</loc>
     <lastmod>2019-01-10T22:09:13+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://wadayama.github.io/</loc>
+    <loc>https://wadayama.github.io/public/</loc>
     <lastmod>2019-01-10T22:09:13+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://wadayama.github.io/tags/</loc>
+    <loc>https://wadayama.github.io/public/tags/</loc>
     <priority>0</priority>
   </url>
   
