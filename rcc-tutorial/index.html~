@@ -1,97 +1,64 @@
-2018年度集中講義<br>
-最適化理論<br><br>
+<H1>
+無線物理層におけるデータ駆動アプローチ---深層学習への期待と展望---
+</H1>
 
-講義スライド・演習問題・解答
-<UL>
-<LI>
-    <a href="./lecture-slides/lecture-01.pdf">講義 1 スライド</a>, 
-    <a href="./exercise/exercise-01.pdf">演習問題 1</a>,
-    <a href="./answer/answer-01.pdf">解答 1</a>
-</LI>
-<LI>
-    <a href="./lecture-slides/lecture-02.pdf">講義 2 スライド</a>, 
-    <a href="./exercise/exercise-02.pdf">演習問題 2</a>,
-    <a href="./answer/answer-02.pdf">解答 2</a>
-</LI>
-    
-<LI>
-    <a href="./lecture-slides/lecture-03.pdf">講義 3 スライド</a>, 
-    <a href="./exercise/exercise-03.pdf">演習問題 3</a>,
-    <a href="./answer/answer-03.pdf">解答 3</a> TODO: 解答が対応していない。
-</LI>
-    
-<LI>
-    <a href="./lecture-slides/lecture-04.pdf">講義 4 スライド</a>, 
-    <a href="./exercise/exercise-04.pdf">演習問題 4</a>,
-    <a href="./answer/answer-04.pdf">解答 4</a>
-</LI>
-    
-<LI>
-    <a href="./lecture-slides/lecture-05.pdf">講義 5 スライド</a>, 
-    <a href="./exercise/exercise-05.pdf">演習問題 5</a>,
-    <a href="./answer/answer-05.pdf">解答 5</a>TODO: スライド内容がまちがっている
-</LI>
-    
-<LI>
-    <a href="./lecture-slides/lecture-06.pdf">講義 6 スライド</a>, 
-    <a href="./exercise/exercise-06.pdf">演習問題 6</a>,
-    <a href="./answer/answer-06.pdf">解答 6</a>
-</LI>
-    
-<LI>
-    <a href="./lecture-slides/lecture-07.pdf">講義 7 スライド</a>, 
-    <a href="./exercise/exercise-07.pdf">演習問題 7</a>,
-    <a href="./answer/answer-07.pdf">解答 7</a>
-</LI>
-    
-<LI><a href="./lecture-slides/lecture-08.pdf">講義 8 スライド</a>TODO スライド大幅アップデートしたい</LI>
+名古屋工業大学 <BR>
+和田山 正<BR><BR>
 
-<LI>
-    <a href="./lecture-slides/lecture-09.pdf">講義 9 スライド</a>
-</LI>
+講演概要<BR>
 
-<LI>
-    <a href="./lecture-slides/lecture-10.pdf">講義10 スライド</a>
-    <a href="./exercise/exercise-10.pdf">演習問題10</a>,
-</LI>
-
-<LI>
-    <a href="./lecture-slides/lecture-11.pdf">講義11 スライド</a>, 
-    <a href="./exercise/exercise-07.pdf">演習問題11</a>,
-    <a href="./answer/answer-07.pdf">解答11</a>　TODO: ７回目の演習問題と同じ？
-</LI>
-    
-<LI><a href="./lecture-slides/lecture-12.pdf">講義12 スライド</a></LI> 
-
-<LI><a href="./lecture-slides/lecture-13.pdf">講義13 スライド</a></LI> 
-
-<LI><a href="./lecture-slides/lecture-14.pdf">講義14 スライド</a></LI> 
-
-<LI>
-    <a href="./lecture-slides/lecture-15.pdf">講義15 スライド</a>, 
-    <a href="./exercise/exercise-15.pdf">演習問題15</a>,
-     <a href="./answer/answer-15.pdf">解答15</a>
-</LI>
-</UL>        
+近年、深層学習技術の無線物理層への応用が注目されている。国際会議における 関連ワークショップ・セッションが増加傾向にあるなど、当該分野への研究者の興味の 高まりが感じられる。本講演では、通信系の研究を行っている研究者ならびに 学生を対象に、無線物理層における深層学習技術の有用性と可能性について論じる。 深層学習に関する基礎的事項を概観するとともに、関連研究事例(自己符号化器に基づく アプローチ・MIMO検出など)の詳細を紹介する。講演の一部については、Google colaboratory上で実行できるコードを公開する予定である。
 
 <HR>
-Google Colaboratory 演習関連リンク <BR><BR>
+チュートリアルスライド <BR><BR>
 <UL>
-    <LI><a href="https://colab.research.google.com/">https://colab.research.google.com/</a></LI>
+    <LI><a href="./RCC-tutorial.pdf">スライド</a></LIb>
+</UL>
+<HR>
+深層学習関連リンク <BR><BR>
+<UL>
+    <LI><a href="http://course.fast.ai/">fast.ai</a></LI>
+    <LI><a href="https://arxiv.org/abs/1709.02840">A brief introduction to ML for engineers</a></LI>
+    <LI><a href="http://www.deeplearningbook.org">www.deeplearningbook.org</a></LI>
+</UL>
+<HR>
+Google Colaboratory 関連リンク <BR><BR>
+<UL>
+    <LI><a href="https://colab.research.google.com/">Google Colabratory</a></LI>
+    <LI><a href="https://qiita.com/tomo_makes/items/b3c60b10f7b25a0a5935">【秒速で無料GPUを使う】深層学習実践Tips on Colaboratory</a></LI>
     <LI><a href="https://qiita.com/Fendo181/items/a934e4f94021115efb2e">Python3基礎文法</a></LI>
+</UL>
+<HR>
+PyTorhc関連リンク <BR><BR>
+<UL>
+    <LI><a href="https://pytorch.org">PyTorch本家HP</a></LI>
     <LI><a href="https://qiita.com/sh-tatsuno/items/42fccff90c98103dffc9">ライトニングpytorch入門</a></LI>
 </UL>
 
 <HR>
-Google Colaboratory 演習課題 <BR><BR>
+Google Colaboratory コード例 <BR><BR>
 Macの人はchromeかsafariを利用してください。Windowsの人はchromeを利用してください。
 google colabにて実行を行うためには、googleアカウントが必要。
 下記をクリックする際には、新しいタブを開くようにすると便利。
  <UL>
-    <LI><a href="https://colab.research.google.com/github/wadayama/miya/blob/master/gradient_descent.ipynb">gradient_descent.ipynb</a></LI>
-    <LI><a href="https://colab.research.google.com/github/wadayama/miya/blob/master/backprop.ipynb">backprop.ipynb</a></LI>
-    <LI><a href="https://colab.research.google.com/github/wadayama/miya/blob/master/mnist.ipynb">mnist.ipynb</a></LI>
-    <LI><a href="https://colab.research.google.com/github/wadayama/miya/blob/master/cvxpy.ipynb">cvxpy.ipynb</a></LI>
+    <LI><a href="https://colab.research.google.com/github/wadayama/rcc-tutorial/blob/master/gradient_descent.ipynb">勾配法の例: gradient_descent.ipynb</a></LI>
+    <LI><a href="https://colab.research.google.com/github/wadayama/rcc-tutorial/blob/master/backprop.ipynb">AND関数学習: backprop.ipynb</a></LI>
+    <LI><a href="https://colab.research.google.com/github/wadayama/rcc-tutorial/blob/master/mnist.ipynb">MNIST認識プログラム: mnist.ipynb</a></LI>
 </UL>
+
+<HR>
+第２部関連リンク <BR><BR>
+ <UL>
+    <LI><a href="https://arxiv.org/abs/1702.00832">An Introduction to Deep Learning for the Physical Layer, T.O’Shea, J. Hoydis (arXiv)</a></LI>
+    <LI><a href="https://www.deepsig.io">DEEPSIG INC</a></LI>
+    <LI><a href="https://medium.com/@karpathy/software-2-0-a64152b37c35">Software 2.0, Andrej Karpathy</a></LI>
+    <LI><a href="https://arxiv.org/abs/1801.01978">Trainable ISTA for Sparse Signal Recovery (arXiv)</a></LI>
+    <LI><a href="https://github.com/wadayama/TISTA">TISTAのコード(github)</a></LI>
+    <LI><a href="https://arxiv.org/abs/1812.10044">Trainable Projected Gradient Detector for Massive Overloaded MIMO Channels: Data-driven Tuning Approach (arXiv) </a></LI>
+    <LI><a href="https://search.ieice.org/bin/pdf_link.php?fname=e96-b_3_685&lang=">A User’s Guide to Compressed Sensing for Communications Systems (IEICE)</a></LI>
+    <LI><a href="http://yann.lecun.com/exdb/publis/pdf/gregor-icml-10.pdf">Learning Fast Approximations of Sparse Coding</a></LI>
+</UL>
+
+
 
 
