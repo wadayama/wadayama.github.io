@@ -64,8 +64,8 @@ email: wadayama at nitech.ac.jp <BR>
 
 <h5> 解説文書など(関連原稿・スライド)</h5>
 <UL>
-<LI> <A href="public/non-convex.pdf">非凸最適化に基づくアルゴリズムデザインと深層展開—</A> (2018年7月)
-<LI> <A href="public/rcs_invited.pdf">深層学習に基づく無線通信技術 — 研究の現状と展望 —</A> (2018年8月22日電子情報通信学会 無線通信システム(RCS)研究会)
+<LI> <A href="pub/non-convex.pdf">非凸最適化に基づくアルゴリズムデザインと深層展開—</A> (2018年7月)
+<LI> <A href="pub/rcs_invited.pdf">深層学習に基づく無線通信技術 — 研究の現状と展望 —</A> (2018年8月22日電子情報通信学会 無線通信システム(RCS)研究会)
 </UL>
 
 <h5> 本グループの貢献(論文・ソースコード)</h5>
