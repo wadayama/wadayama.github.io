@@ -2,7 +2,7 @@
 <html lang="ja">
   <head>
     <meta charset="utf-8">
-    <title>和田山Tadashi Wadayama</title>
+    <title>和田山 正</title>
     <link rel="stylesheet" type="text/css" href="css/main.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="css/ie6_or_less.css" />
     <link rel="stylesheet" type="text/css" href="css/customization.css" media="screen" />
@@ -22,8 +22,8 @@
   <body id="type-b">
     <div id="wrap">
       <div id="header">
-        <div id="site-name"><a href="index.html">Tadashi Wadayama</a></div>
-        <div id="sub-site-name"><a href="index.html">Wadayama Laboratory, Nagoya Institute of Technology</a></div>
+        <div id="site-name"><a href="index_j.html">和田山 正</a></div>
+        <div id="sub-site-name"><a href="index_j.html">名古屋工業大学大学院工学研究科</a></div>
       </div>
 
       <div id="content-wrap">
@@ -31,52 +31,44 @@
         <div id="utility">
           <ul id="nav-secondary">
 		  <img src="wadayama.jpg" width="200"  alt="" />
-            <li><a href="index.html">Home</a></li>
-            <li><a href="publication.html">Papers</a></li>
-			<li><a href="http://twlab.web.nitech.ac.jp/">Lab</a></li>
- <li><a href="http://arxiv.org/find/all/1/all:+AND+Tadashi+Wadayama/0/1/0/all/0/1">Articles  on arXiv</a></li>
- 
-          </ul>
+            <li><a href="index.html">ホーム</a></li>
+            <li><a href="publication.html">論文</a></li>
+	  <li><a href="http://twlab.web.nitech.ac.jp/">研究室</a></li>
+ <li><a href="http://arxiv.org/find/all/1/all:+AND+Tadashi+Wadayama/0/1/0/all/0/1">ArXiv上の原稿</a></li>
+           </ul>
         </div>
 
         <div id="content">
-          
+
+<a href="./index.html">[Home page in English]</a><BR>          
          
-<h4>Profile</h4>
-Professor <BR>
-Department of Computer Science, Faculty of Engineering<BR>
-Nagoya Institute of Technology<BR>
-Research Interests: Coding Theory, Information Theory, Digital Communication/Storage Systems<BR>
+<h4>プロフィール</h4>
+教務 <BR>
+名古屋工業大学<BR>
+研究上の興味: 符号理論, 情報理論, デジタル通信・記録システムにおける信号処理, 深層学習<BR>
 
-<h4>Biography</h4>
-<B>Tadashi Wadayama</B> was born in Kyoto, Japan, on May 9,1968. 
-He received the B.E., the M.E., and the D.E. degrees 
-from Kyoto Institute of Technology in 1991, 1993 and 1997, respectively. 
-On 1995, he started to work with Faculty of Computer Science and 
-System Engineering,
-Okayama Prefectural University as a research associate.
-From April 1999 to March 2000,
-he stayed in Institute of Experimental Mathematics, 
-Essen University (Germany) as a visiting researcher.
-On 2004, he moved to Nagoya Institute of Technology as an
-associate professor. Since 2010, he has been a full professor 
-of Nagoya Institute of Technology.
-His research interests are in coding theory, information theory, and coding and signal processing for 
-digital communication/storage systems.
-He is a member of IEICE and IEEE.
 
-<h4>Access</h4>
-Building 2, 4th floor, 424A <BR>
-Nagoya Institute of Technology (<a href="http://www.nitech.ac.jp/eng/access/index.html">access map</a>)<BR>
-Gokiso-cho, Showa-ku, Nagoya, Aichi, Japan,  466-8555 <BR>
-tel: +81-52-735-5087<BR>
+<h4>アクセス</h4>
+2号館 424A <BR>
+名古屋工業大学 (<a href="http://www.nitech.ac.jp/eng/access/index.html">access map</a>)<BR>
+愛知県名古屋市御器所町,  466-8555 <BR>
 email: wadayama at nitech.ac.jp <BR>
 
-<h4>Useful links to deep unfolding</h4>
-Deep unfolding is a technique for improving iterative algorithms based on standard deep learning toolkit such as back propagation and 
-stochastic gradient descent methods. One can tune embedded trainable parameters in unfolded signal flow graphs. In most cases, we can 		
-get faster convergence without sacrificing the performance of the orignal algorithm. 
-<h5> Our contribution</h5>
+<HR>
+<h4>深層展開に関するリソースとリンク</h4>
+深層展開(Deep unfolding)は, バックプロパゲーションや確率的勾配法(SGD)
+などの深層学習技術を利用した反復アルゴリズムの改善手法である。
+時間方向に展開された信号流グラフを深層ニューラルネットワークと
+見なして、埋め込まれた学習可能パラメータを調整することが可能である。
+多くの場合で、もとのアルゴリズムと比べて収束の高速化(収束加速)が観測される。
+
+<h5> 解説文書など(関連原稿・スライド)</h5>
+<UL>
+<LI> <A href="./public/non-convex.pdf">非凸最適化に基づくアルゴリズムデザインと深層展開—</A> (2018年7月)
+<LI> <A href="./public/rcs_invited.pdf">深層学習に基づく無線通信技術 — 研究の現状と展望 —</A> (2018年8月22日電子情報通信学会 無線通信システム(RCS)研究会)
+</UL>
+
+<h5> 本グループの貢献(論文・ソースコード)</h5>
 <UL>
 						<LI> D. Ito, S. Takabe, TW, ``<A href="https://ieeexplore.ieee.org/document/8695874">Trainable ISTA for Sparse Signal Recovery</A>,'' IEEE Trans. on Signal Processing, 2019.
 						<LI> <A href="https://github.com/wadayama/TISTA">Implementation of TISTA </A> in PyTorch (on Github) 

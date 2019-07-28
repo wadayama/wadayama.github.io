@@ -41,7 +41,8 @@
 
         <div id="content">
           
-         
+<a href="./index_j.html">[Home page in Japanese]</a><BR>
+
 <h4>Profile</h4>
 Professor <BR>
 Department of Computer Science, Faculty of Engineering<BR>
@@ -72,10 +73,15 @@ Gokiso-cho, Showa-ku, Nagoya, Aichi, Japan,  466-8555 <BR>
 tel: +81-52-735-5087<BR>
 email: wadayama at nitech.ac.jp <BR>
 
-<h4>Useful links to deep unfolding</h4>
+<h4>Links and resources of deep unfolding</h4>
 Deep unfolding is a technique for improving iterative algorithms based on standard deep learning toolkit such as back propagation and 
 stochastic gradient descent methods. One can tune embedded trainable parameters in unfolded signal flow graphs. In most cases, we can 		
 get faster convergence without sacrificing the performance of the orignal algorithm. 
+<h5> Related documents (manuscripts and slides)</h5>
+<UL>
+<LI> Slides of <A href="./public/AEW_wadayama.pdf">Data-Driven Tuning of Proximal Gradient Descent Algorithms for Signal Recovery Problems</A>, Asia-Europe workshop on informaton theory 11, 2019.
+</UL>
+
 <h5> Our contribution</h5>
 <UL>
 						<LI> D. Ito, S. Takabe, TW, ``<A href="https://ieeexplore.ieee.org/document/8695874">Trainable ISTA for Sparse Signal Recovery</A>,'' IEEE Trans. on Signal Processing, 2019.
